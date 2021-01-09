@@ -1,7 +1,7 @@
 {
-  "name": "expensesave",
+  "name": "HomeSubbuExpense",
   "version": "1.0.0",
-  "description": "ExpenseSave built with MERN Stack",
+  "description": "HomeSubbuExpense built with MERN Stack",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
